@@ -15,6 +15,6 @@ This project is a Java-based Address Book Management System that allows users to
 - File I/O for saving/loading contacts
 
 ## Getting Started:
-1. Clone the repository: `git clone https://github.com/your-username/address-book-management.git`
+1. Clone the repository: `git clone https://github.com/Boscooox/address-book-management.git`
 2. Navigate to the project directory and compile the Java files.
 3. Run the program to start managing your address book.
